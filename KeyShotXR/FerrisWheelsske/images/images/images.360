@@ -1,0 +1,10 @@
+{
+    "horizontalFrames": 18,
+    "horizontalStartingIndex": 9,
+    "horizontalWrap": true,
+    "name": "images",
+    "type": "KeyShotXR",
+    "verticalFrames": 20,
+    "verticalStartingIndex": 0,
+    "verticalWrap": false
+}
